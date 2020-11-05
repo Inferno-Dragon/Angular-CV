@@ -144,6 +144,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testappng"
+    }
+  },
+  "defaultProject": "testappng",
+  "cli": {
+    "analytics": "fd46862c-351b-40ec-ba1a-bead3886f0ca"
+  }
 }
